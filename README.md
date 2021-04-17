@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-dreamahu_-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wisvem/)](https://instagram.com/dreamahu_)
 [![Medium Badge](https://img.shields.io/badge/-@XvariaDev-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@wisvem/)](https://medium.com/@XvariaDev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvaria&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvaria&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xvaria&layout=compact)
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xvaria)
 
