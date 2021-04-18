@@ -3,10 +3,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@XvariaDev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=XvariaDev "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-XvariaDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/XvariaDev/)
 [![Instagram Badge](https://img.shields.io/badge/-dreamahu_-orange?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wisvem/)](https://instagram.com/dreamahu_)
-[![Medium Badge](https://img.shields.io/badge/-@XvariaDev-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@wisvem/)](https://medium.com/@XvariaDev)
+[![Medium Badge](https://img.shields.io/badge/-@XvariaDev-black?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@XvariaDev/)](https://medium.com/@XvariaDev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvaria&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xvaria&layout=compact&theme=gotham)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvaria&show_icons=true&theme=gotham)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xvaria&layout=compact&theme=gotham)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xvaria)]
 
 <!--
 [<img align="left" alt="DFA | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
