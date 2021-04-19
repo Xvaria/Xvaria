@@ -7,7 +7,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvaria&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xvaria&layout=compact&theme=gotham)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xvaria&repo=Bobots&theme=gotham)
 
 <!--
 [<img align="left" alt="DFA | Facebook" width="35px" src="https://i.imgur.com/IBjq8wx.png" />][facebook]
