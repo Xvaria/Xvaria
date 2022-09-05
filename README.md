@@ -1,4 +1,4 @@
-**Hello mi name is Diego, a Software Developer student at Holberton School!**
+**Hello my name is Diego, a Software Developer student at Holberton School!**
 
 [![Twitter Badge](https://img.shields.io/badge/-@XvariaDev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=XvariaDev "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-XvariaDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/XvariaDev/)](https://www.linkedin.com/in/XvariaDev/)
